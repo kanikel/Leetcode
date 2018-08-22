@@ -1,0 +1,1 @@
+return min(nums) # 时间复杂度是O(n),这道题要求的时间复杂度是O(logn)
